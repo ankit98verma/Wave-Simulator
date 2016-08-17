@@ -9,7 +9,7 @@ import java.util.List;
 import javax.swing.border.EmptyBorder;
 
 
-public class Progressive_Wave extends JFrame{
+public class Progressive_Wave extends JFrame{   //used for simulation of progressive waves
     
     Graphics buffg;
     Image offscreen;
